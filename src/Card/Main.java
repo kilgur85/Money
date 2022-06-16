@@ -13,5 +13,6 @@ public class Main {
 
         System.out.println(atm1.topUpYourAccount(new BigDecimal(1000)));
         System.out.println(atm2.withdrawalFromAccount(new BigDecimal(7000)));
+        System.out.println("Test for commit and push");
     }
 }
