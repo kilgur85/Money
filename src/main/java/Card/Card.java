@@ -5,6 +5,7 @@ import java.math.BigDecimal;
 
 
 public abstract class Card {
+
     protected String name;
     protected BigDecimal balance;
 
